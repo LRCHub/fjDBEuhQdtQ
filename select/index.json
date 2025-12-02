@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "ピアス",
+  "base_artist": "さとう。",
+  "createdAt": "2025-12-02T08:46:05.070316Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ピアス",
+      "artist": "EMPiRE",
+      "has_synced": true,
+      "path": "select/01_ピアス_EMPiRE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ピアス",
+      "artist": "中島 美嘉",
+      "has_synced": false,
+      "path": "select/02_ピアス_中島_美嘉.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ピアス - the GREAT JOURNEY Ver",
+      "artist": "EMPiRE",
+      "has_synced": true,
+      "path": "select/03_ピアス_-_the_GREAT_JOURNEY_Ver_EMPiRE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ピアス",
+      "artist": "中島美嘉",
+      "has_synced": true,
+      "path": "select/04_ピアス_中島美嘉.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ピアス",
+      "artist": "Empire",
+      "has_synced": true,
+      "path": "select/05_ピアス_Empire.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ピアス",
+      "artist": "reGretGirl",
+      "has_synced": true,
+      "path": "select/06_ピアス_reGretGirl.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ピアス",
+      "artist": "Nana Mizuki",
+      "has_synced": true,
+      "path": "select/07_ピアス_Nana_Mizuki.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ピアス",
+      "artist": "中岛美嘉",
+      "has_synced": true,
+      "path": "select/08_ピアス_中岛美嘉.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ピアス",
+      "artist": "あたらよ",
+      "has_synced": false,
+      "path": "select/09_ピアス_あたらよ.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ピアス",
+      "artist": "中島 美嘉",
+      "has_synced": true,
+      "path": "select/10_ピアス_中島_美嘉.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ピアス",
+      "artist": "水樹奈々",
+      "has_synced": true,
+      "path": "select/11_ピアス_水樹奈々.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ピアス - Acoustic ver.",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/12_ピアス_-_Acoustic_ver._あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ピアス",
+      "artist": "Mika Nakashima",
+      "has_synced": true,
+      "path": "select/13_ピアス_Mika_Nakashima.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ピアス",
+      "artist": "さとう。",
+      "has_synced": false,
+      "path": "select/pl_01_ピアス_さとう。.txt"
+    }
+  ]
+}
